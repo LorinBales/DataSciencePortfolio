@@ -74,7 +74,7 @@ st.caption("_Graduation_: _Spring_, _2013_")
 # Publications
 st.subheader(":gray[PUBLICATION]", divider="gray")
 st.write("Checkout my publication for [OBSERVATION OF FLUX-TUBE CROSSINGS IN THE SOLAR WIND](https://iopscience.iop.org/article/10.1088/0004-637X/766/1/2)")
-st.image('FluxTube.PNG', caption="Schematics illustrating (a) a single-current-sheet event, (b) a double-current-sheet event, and (c) a triple-current-sheet event.")
+st.image('FluxTube.png', caption="Schematics illustrating (a) a single-current-sheet event, (b) a double-current-sheet event, and (c) a triple-current-sheet event.")
 
 st.subheader(":gray[EXPERIENCE]", divider="gray")
 st.caption(":blue[Tech Lead & Senior Data Scientist], _NOV_, _2023_, COLSA, Huntsville AL ")
