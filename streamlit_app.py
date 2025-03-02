@@ -44,6 +44,7 @@ st.subheader(":gray[PROJECTS]", divider="gray")
 col_ppg, col_astro = st.columns(2)
 with col_ppg:
     st.subheader("Over-the-ear PPG monitor")
+    st.image("wearout_hardware.jpg", caption="Arduino hardware with BLE and heart rate sensor.", width=200)
     st.text("Over-the-ear photoplethysmographic (PPG) monitor is a cost effective and high-precision device to "
             "measure the effects of blood flow to the head. Engineered a lightweight, ergonomic over-ear form "
             "factor through 3D printing, that encases continuous streaming via bluetooth on a minimal embedded "
